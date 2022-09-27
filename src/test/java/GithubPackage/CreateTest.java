@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class CreateTest {
 	
 	@Test
-	public void create()
+	public void create3()
 	{
 		System.out.println("---created--");
 	}
