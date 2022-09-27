@@ -10,4 +10,10 @@ public class CreateTest {
 		System.out.println("---created--");
 	}
 
+	@Test
+	public void modify()
+	{
+		System.out.println("---MOdified--");
+	}
+	
 }
