@@ -2,7 +2,7 @@ package GithubPackage;
 
 import org.testng.annotations.Test;
 
-public class Avenger {
+public class Create {
 	@Test 
 	public void aveng(){
 		System.out.println("*****HULK******");
