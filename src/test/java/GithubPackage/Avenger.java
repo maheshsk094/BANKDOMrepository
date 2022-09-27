@@ -9,7 +9,7 @@ public class Avenger {
 	}
 	@Test 
 	public void aveng1(){
-		System.out.println("*****CAPT AMERICA*****");
+		System.out.println("*****THE CAPT AMERICA *****");
 	}
 	
 
