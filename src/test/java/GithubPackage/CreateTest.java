@@ -19,6 +19,11 @@ public class CreateTest {
 	{
 		System.out.println("---created 3333--");
 	}
+	@Test
+	public void create6()
+	{
+		System.out.println("---created 33336666--");
+	}
 	
 
 }
