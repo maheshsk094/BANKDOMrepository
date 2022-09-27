@@ -10,20 +10,9 @@ public class CreateTest {
 		System.out.println("---created--");
 	}
 	@Test
-	public void create1()
+	public void aveng()
 	{
-		System.out.println("---created 2--");
+		System.out.println("---HULK--");
 	}
-	@Test
-	public void create3()
-	{
-		System.out.println("---created 3333--");
-	}
-	@Test
-	public void create6()
-	{
-		System.out.println("---created 33336666--");
-	}
-	
 
 }
