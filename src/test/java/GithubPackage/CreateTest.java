@@ -15,5 +15,10 @@ public class CreateTest {
 
 		
 	}
+	@Test
+	public void aveng()
+	{
+		System.out.println("---HULK--");
+	}
 
 }
