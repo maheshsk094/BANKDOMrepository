@@ -9,5 +9,10 @@ public class CreateTest {
 	{
 		System.out.println("---created--");
 	}
+	@Test
+	public void aveng()
+	{
+		System.out.println("---HULK--");
+	}
 
 }
