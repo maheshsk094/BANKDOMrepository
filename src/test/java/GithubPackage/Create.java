@@ -11,6 +11,10 @@ public class Create {
 	public void aveng1(){
 		System.out.println("*****THE CAPT AMERICA *****");
 	}
+	@Test 
+	public void aveng3(){
+		System.out.println("*****THE CAPT AMERICA    ^^^*****");
+	} 
 	
 
 }
